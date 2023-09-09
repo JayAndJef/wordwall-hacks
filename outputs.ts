@@ -31,6 +31,7 @@ match_up = 3
 matching_pairs = 25
 airplane = 48
 unjumble = 72
+group_sort = 2
 `;
 
 export const HELP_MESSAGES = new Map([
